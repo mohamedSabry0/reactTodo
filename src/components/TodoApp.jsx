@@ -1,8 +1,11 @@
+import TodosLogic from "./TodosLogic";
+
 const TodoApp = () => {
   return (
     <div>
-      <h1>Hello world!</h1>
-      <p>I am in a React Component!</p>
+      <h1>todos</h1>
+      <p>Items will not persist yet</p>
+      <TodosLogic />
     </div>
   );
 };
