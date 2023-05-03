@@ -12,7 +12,6 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Todo List App ](#-todo-list-app-)
-  - [Screenshot ](#screenshot-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -36,13 +35,6 @@
 # 📖 Todo List App <a name="about-project"></a>
 
 **Todo List App** is a simple calculator built with <a href="https://reactjs.org/">React.js</a>
-
-## Screenshot <a name="screenshot"></a>
-
-<div align='center'>
-  <img src="./app_screenshot.png" alt="logo" width="140"  height="auto" />
-    <br/>
-</div>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -98,7 +90,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:mohamedSabry0/math-crafters.git
+  git clone git@github.com:mohamedSabry0/reactTodo.git
 ```
 
 ### Install
@@ -106,7 +98,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd math-crafters
+  cd reactTodo
   npm i
 ```
 
@@ -157,7 +149,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mohamedSabry0/math-crafters/issues).
+Feel free to check the [issues page](https://github.com/mohamedSabry0/reactTodo/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
