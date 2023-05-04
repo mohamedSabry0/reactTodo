@@ -52,7 +52,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Persist data using Local Storage]**
-- **[Leverage consistent design using Post-CSS]**
+- **[Leverage consistent design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

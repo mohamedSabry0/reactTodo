@@ -2,7 +2,7 @@ import TodosLogic from "./TodosLogic";
 
 const TodoApp = () => {
   return (
-    <div>
+    <div className="todos">
       <h1>todos</h1>
       <p>Items will not persist yet</p>
       <TodosLogic />
